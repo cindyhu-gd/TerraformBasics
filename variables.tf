@@ -1,7 +1,7 @@
 variable "primary_location" {
   type = string
   description = "Primary Location"
-  default = "UK South"
+  default = "US West 2"
 }
 
 variable "secondary_location" {
